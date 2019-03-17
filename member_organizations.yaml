@@ -59,6 +59,11 @@
   - tim.van.steenburgh@canonical.com
   url: https://www.ubuntu.com/kubernetes
 
+- name: Carbon Relay
+  contacts:
+  - john@carbonrelay.com
+  url: https://www.carbonrelay.com
+
 - name: Cisco
   contacts:
     - dedutta@cisco.com
